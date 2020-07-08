@@ -3,5 +3,5 @@ def parrot(phrase=squawk!)
   return "#{phrase}"
 end
 
-Parrot(squawk!)
+Parrot
 parrot
