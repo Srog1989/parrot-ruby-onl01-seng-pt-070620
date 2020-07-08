@@ -1,4 +1,4 @@
-def parrot (phrase=squawk!)
+def parrot (phrase="squawk!")
   puts phrase
 end
 parrot
